@@ -16,7 +16,7 @@
 
 ### 排序策略
 
-`[@dnd-kit/sortable](https://docs.dndkit.com/presets/sortable)` 支持垂直列表、水平列表、网格和虚拟列表等排序用例。它暴露了许多不同的策略供开发者选择：
+[`@dnd-kit/sortable`](https://docs.dndkit.com/presets/sortable)  支持垂直列表、水平列表、网格和虚拟列表等排序用例。它暴露了许多不同的策略供开发者选择：
 
 + `rectSortingStrategy` ：默认使用的策略，适用于大多数用例，不支持虚拟列表
 + `verticalListSortingStrategy`：此策略针对垂直列表进行了优化，并支持虚拟列表
